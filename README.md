@@ -2,3 +2,7 @@
 APIを使用したAIアプリのテスト
 
 claudeモデルを使用しているので、ANTHROPIC_API_KEYを環境変数に設定してください
+
+生成の質を調整するtemperatureパラメーターを任意で設定できます。
+
+実行コマンドはstreamlit run agent.pyです
