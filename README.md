@@ -1,2 +1,4 @@
 # AI_agent_test
-APIを使用したAIアプリ
+APIを使用したAIアプリのテスト
+
+claudeモデルを使用しているので、ANTHROPIC_API_KEYを環境変数に設定してください
