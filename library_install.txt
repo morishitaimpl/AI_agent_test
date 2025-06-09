@@ -1,0 +1,4 @@
+tiktoken 
+streamlit 
+langchain-core 
+langchain-anthropic
