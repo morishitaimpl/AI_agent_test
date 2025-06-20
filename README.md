@@ -10,3 +10,5 @@ claudeモデルを使用しているので、ANTHROPIC_API_KEYを.envなどの�
 
 実行コマンドは次のとおりです。streamlit run agent.py
 
+agent_ReAct.py
+ReActパターンを組み込んでみました。
